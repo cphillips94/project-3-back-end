@@ -99,7 +99,7 @@ Please refer to `STARTUP.md` file
 ![Bundle](https://postimg.cc/gallery/ktZTB66)
 ![WishList](https://postimg.cc/gallery/pXQd7x2)
 ![DarkMode](https://postimg.cc/gallery/rDpwCdd)
-![Reset Password](https://postimg.cc/gallery/mkSZqNQ)
+![Reset Password](https://postimg.cc/VrRjSJ00)
 
 
 # Entity Relationship Diagram
