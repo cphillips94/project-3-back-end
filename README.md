@@ -94,13 +94,6 @@ Please refer to `STARTUP.md` file
 ![Cart / Checkout / Confirmation / Orders History](https://i.postimg.cc/NGPTtdgx/Screen-Shot-2022-01-14-at-12-54-49-PM.png)
 ![Manage Store](https://i.postimg.cc/rst534tT/Screen-Shot-2022-01-14-at-1-09-55-PM.png)
 ![Manage Store Forms](https://i.postimg.cc/1XJZxgxW/Screen-Shot-2022-01-14-at-1-04-27-PM.png)
-# New Application Screenshots
-![Buy Now](https://postimg.cc/gallery/Wsbvw2c)
-![Bundle](https://postimg.cc/gallery/ktZTB66)
-![WishList](https://postimg.cc/gallery/pXQd7x2)
-![DarkMode](https://postimg.cc/gallery/rDpwCdd)
-![Reset Password](https://postimg.cc/VrRjSJ00)
-
 
 # Entity Relationship Diagram
 ![ERD Image](https://i.postimg.cc/q75nz3yn/image.png)
